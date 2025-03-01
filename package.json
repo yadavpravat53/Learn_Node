@@ -1,0 +1,15 @@
+{
+  "name": "learn_node",
+  "version": "1.0.0",
+  "description": "first node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pravat Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "colors": "^1.4.0"
+  }
+}
